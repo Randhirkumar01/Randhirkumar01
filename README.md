@@ -8,7 +8,7 @@ Currently, I am diving deep into web development, particularly focusing on JavaS
 
 ## Skills & Technologies
 
-html,css,js,react,tailwind,npm,redux,git,github,mysql,bootstrap
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,npm,redux,git,github,mysql,bootstrap&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
